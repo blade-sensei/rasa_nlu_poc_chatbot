@@ -1,0 +1,7 @@
+---
+applications:
+- name: rasa-nlu
+  random-route : true
+  memory: 128M
+  command: python setup.py install --force; python -m rasa_nlu.server -P $PORT
+  buildpack: python_buildpack

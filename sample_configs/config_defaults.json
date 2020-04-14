@@ -9,7 +9,7 @@
   "response_log": "logs",
   "config": "config.json",
   "log_level": "INFO",
-  "port": 5000,
+  "port": 8000,
   "data": null,
   "emulate": null,
   "log_file": null,

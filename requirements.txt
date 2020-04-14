@@ -1,2 +1,2 @@
 -e .
--r alt_requirements/requirements_bare.txt
+-r alt_requirements/requirements_full.txt
